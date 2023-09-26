@@ -4,6 +4,9 @@ In this assignment, you will build an interactive dashboard to explore the Belly
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+## Deployment Page
+https://kat2go.github.io/belly-button-challenge/
+
 ## Before You Begin
 1. Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
 
@@ -17,6 +20,7 @@ You will not be required to access the samples.json file locally, but it is prov
 4. Push the above changes to GitHub.
 
 5. Deploy the new repository to GitHub Pages.
+
 ##  Instructions
 Complete the following steps:
 
